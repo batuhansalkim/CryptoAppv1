@@ -11,7 +11,7 @@ function App() {
   },[])
   return (
     < >
-    batu
+
     <Coins coins={coins}/>
     </>
   );
