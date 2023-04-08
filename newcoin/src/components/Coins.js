@@ -21,7 +21,7 @@ const Coins = (props) => {
                 {
                     props.coins.map(coins=>{
                         return(
-                            <CoinItem coins={coins}/>
+                            <CoinItem key={coins.id} coins={coins}/>
                         )
                     })
                 }
