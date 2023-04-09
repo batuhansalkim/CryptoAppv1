@@ -8,7 +8,9 @@ function Navbar() {
     <Link to="/">
         <div className="navbar">
             <FaCoins className='icon'/>
+            
             <h1>Coin <span className='pruple'>Search</span></h1>
+            <h2>BatuSlkm</h2>
         </div>
     </Link>
   )
