@@ -23,6 +23,7 @@ function App() {
 
   return (
     <>
+    <h1>batu</h1>
       <Navbar />
       <Routes>
         <Route path='/' element={<Coins coins={coins} />} />
