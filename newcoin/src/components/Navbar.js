@@ -1,5 +1,6 @@
 import React from 'react'
 import {FaCoins} from "react-icons/fa";
+import "../components/Navbar.css";
 
 function Navbar() {
   return (
